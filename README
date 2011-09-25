@@ -1,0 +1,21 @@
+How to run:
+$>java -jar dist/EnglishDictionary.jar
+
+To try it there is a jar in ./dist
+dependencies are at ./dist/lib
+Dictionary contains following fields:
+
+<Database>.<Table>.<Field>
+ENGDIC.WORDS.WORD,
+ENGDIC.WORDS.MEANING, 
+ENGDIC.WORDS.SYNONYMS, 
+ENGDIC.WORDS.SOUND
+
+Dependencies:
+
+	* AbsoluteLayout.jar  
+	* AnimatingCardLayout.jar  
+ 	* commons-dbutils-1.2.jar  
+	* derby.jar  
+	* jl1.0.jar  
+	* substance.jar
