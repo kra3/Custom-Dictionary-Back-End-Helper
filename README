@@ -1,3 +1,8 @@
+Sorry, front end can't be published. 
+This one is created by me way back 2008 for a Western Language training center, 
+for creating custom dictionary with pronunciations, & then could eb shipped in a CD. 
+Uses Derby database.
+
 How to run:
 $>java -jar dist/EnglishDictionary.jar
 
